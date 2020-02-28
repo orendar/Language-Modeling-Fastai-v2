@@ -1,6 +1,6 @@
 # Language-Modeling-Fastai-v2
 
-The only requirements for running this repository are fastai v2 and its dependencies.
+The only requirements for running this repository are [fastai v2](https://github.com/fastai/fastai2) and its dependencies.
 
 You should first run the get_wiki notebook in order to download the Wikipedia corpous of your language of choice. Notice that the nlputils script contains a regular expression which must be updated if your language includes characters which are not Latin or Hebrew.
 
