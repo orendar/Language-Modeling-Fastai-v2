@@ -6,6 +6,6 @@ You should first run the get_wiki notebook in order to download the Wikipedia co
 
 Then, you should run the forward model notebook in three parts - first the Wikipedia language model pretraining, then the dataset language model pretraining, and finally the text classification task. You can then inspect the results of the model, including the most confusing test cases and the prediction confusion matrix.
 
-Optionally, you can also train a backward model and then ensemble them to potentially obtain even better results.
+Optionally, you can also train a backward model and then ensemble them to potentially obtain even better results - check out the relevant notebook.
 
-The sentiment analysis dataset in Hebrew has been taken from the [Neural Sentiment Analyzer for Modern Hebrew](https://github.com/omilab/Neural-Sentiment-Analyzer-for-Modern-Hebrew) repository.
+The sentiment analysis dataset in Hebrew provided here has been taken from the [Neural Sentiment Analyzer for Modern Hebrew](https://github.com/omilab/Neural-Sentiment-Analyzer-for-Modern-Hebrew) repository.
